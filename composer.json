@@ -24,5 +24,11 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^9"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/semihsemih/logie"
+        }
+    ]
 }
